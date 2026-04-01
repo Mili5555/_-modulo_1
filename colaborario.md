@@ -1,7 +1,7 @@
 # Colaboratorio
 
 ## ¿Como usar Google Colab? Una aplicacion muy util para los Ingenieros
-Colaboratory es una herramienta re piola que te deja escribir y ejecutar código directamente desde el navegador. Además del código, podés agregar texto para explicar lo que estás haciendo o dejar anotaciones importantes. También está bueno porque podés trabajar en grupo y varias personas pueden editar el mismo archivo al mismo tiempo. Como contra, cada sesión dura hasta 4 horas por cuenta por día.
+Colaboratory es una herramienta muy útil y con muchisimas herramientras que te deja escribir y ejecutar código directamente desde el navegador. Además del código, podés agregar texto para explicar lo que estás haciendo o dejar anotaciones importantes. También está bueno porque podés trabajar en grupo y varias personas pueden editar el mismo archivo al mismo tiempo. Como contra, cada sesión dura hasta 4 horas por cuenta por día.
 
 **Paso 1: Crear el cuaderno**
 Primero entrás a [https://colab.research.google.com/?hl=es](https://colab.research.google.com/?hl=es) y ya te aparece la opción para crear un cuaderno nuevo. Cuando lo tengas, lo configurás desde *Editar > Configuración del cuaderno*. Ahí podés elegir el lenguaje, si querés usar GPU o TPU, y el entorno de ejecución.
