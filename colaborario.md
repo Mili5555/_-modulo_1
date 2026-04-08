@@ -12,5 +12,7 @@ Arriba de todo vas a ver el botón “+ Texto”. Si hacés click ahí, podés e
 **Paso 3: Agregar código**
 Al lado del botón de texto está “+ Código”. Desde ahí podés escribir tu propio código o incluso ayudarte con inteligencia artificial para generarlo.
 
+**Ejemplo de codigo fácil:**
+
 
 
