@@ -14,5 +14,5 @@ Al lado del botón de texto está “+ Código”. Desde ahí podés escribir tu
 
 **Ejemplo de codigo fácil:**
 
-![Captura](Captura de pantalla 2026-04-01 172203.png)
+![Captura](Captura%20de%20pantalla%202026-04-01%20172203.png)
 
